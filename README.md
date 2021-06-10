@@ -1,5 +1,3 @@
-**eugenio114/eugenio114** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - :wave: Hi there, I am Eugenio
 - :desktop_computer: I’m a Developper/Engineer
 - :books: I am addicted to learning new skills and growing every day
