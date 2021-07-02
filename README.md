@@ -1,5 +1,5 @@
 - :wave: Hi there, I am Eugenio
-- :desktop_computer: I’m a Developper/Engineer
+- :desktop_computer: I’m a Developer/Engineer
 - :books: I am addicted to learning new skills and growing every day
 - :handshake: I’m looking to collaborate on Web Development, Data Science and Analytics
 - 📫 to reach me: [LinkedIn](https://www.linkedin.com/in/eugenio-frisetti-carpani/)
