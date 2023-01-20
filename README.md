@@ -8,9 +8,3 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugenio114&layout=compact)](https://github.com/eugenio114/github-readme-stats)
 
-<a href="https://github.com/eugenio114/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=eugenio114&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/eugenio114/github-readme-stats">
-  <img align="center" src="(https://github-readme-stats.vercel.app/api/top-langs/?username=eugenio114&layout=compact)]" />
-</a>
