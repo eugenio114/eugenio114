@@ -8,4 +8,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugenio114)](https://github.com/eugenio114/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aeugenio114&layout=compact)](https://github.com/eugenio114/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eugenio114&layout=compact)](https://github.com/eugenio114/github-readme-stats)
